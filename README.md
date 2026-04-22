@@ -2,7 +2,6 @@
 
 **TrackYoStartups** is a venture capital portfolio analytics dashboard that evaluates startup performance using key SaaS and venture metrics.
 
-The app simulates a VC firm's internal tool for monitoring portfolio companies and identifying high-potential investments.
 
 ---
 
