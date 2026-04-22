@@ -29,7 +29,7 @@ Revenue Growth, Gross Margin, Burn Rate, Runway, CAC, LTV, LTV/CAC Ratio, NRR
 
 ## Startup Score
 
-Trackyostartups calculates a composite **valuation score** based on weighted metrics:
+TrackYoStartups calculates a composite **valuation score** based on weighted metrics:
 
 * Growth rate
 * Net revenue retention
